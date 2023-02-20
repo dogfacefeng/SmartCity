@@ -10,7 +10,7 @@ public class MyApplication  extends Application {
     private  static  Gson gson;
 
     public static String getMyUrl() {
-        return "http://61.171.62.134:10001/prod-api";
+        return "http://124.93.196.45:10001/prod-api";
     }
 
     public static Gson getGson() {
